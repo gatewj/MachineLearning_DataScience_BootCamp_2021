@@ -1,4 +1,4 @@
-# MachineLearning_DataScience_BootCamp_2021Udemy
+# MachineLearning_DataScience_BootCamp_2021
 Data Science, Data Analysis, Machine Learning (Artificial Intelligence) and Python with Tensorflow, Pandas &amp; more!
 
 
